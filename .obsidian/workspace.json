@@ -11,11 +11,52 @@
             "id": "c3a58deb1d8057ea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Focus on Topics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92826df11b673cd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Federation Setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ee6cc7b0a35a49d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Federation Setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22cdc4834352aa92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fedimint Config.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fedimint Config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fedimint Config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fedimint Config.md"
+              }
             }
           }
         ]
@@ -138,10 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3a58deb1d8057ea",
+  "active": "22cdc4834352aa92",
   "lastOpenFiles": [
-    "Fedimint.md",
+    "My Federation Setup.md",
+    "Fedimint Config.md",
+    "Ubuntu Box.md",
     "Focus on Topics.md",
+    "Fedimint.md",
     "Code Tour.md",
     "how to write modules.md",
     "virtualizing a lightning channel.md"
