@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "111c4a0f278041ab",
+        "id": "0d3a7a34836c059b",
         "type": "tabs",
         "children": [
           {
-            "id": "cab7e15760ef1900",
+            "id": "c3a58deb1d8057ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fedimint.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fedimint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fedimint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fedimint.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cab7e15760ef1900",
+  "active": "c3a58deb1d8057ea",
   "lastOpenFiles": [
-    "Focus on Topics.md",
     "Fedimint.md",
+    "Focus on Topics.md",
     "Code Tour.md",
     "how to write modules.md",
     "virtualizing a lightning channel.md"
